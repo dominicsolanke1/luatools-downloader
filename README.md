@@ -26,6 +26,7 @@ A professional, multilingual installer designed to automatically set up **Luatoo
 - **Aesthetic Console Menu**: Customized terminal branding featuring the green `CHEATGLOBAL` ASCII layout and interactive options.
 
 ---
+<img width="1110" height="623" alt="image" src="https://github.com/user-attachments/assets/a9118e01-9e7f-405b-a7b2-d7ae6c4e9111" />
 
 ## 🛠️ How to Use
 
