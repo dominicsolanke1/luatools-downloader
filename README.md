@@ -35,11 +35,11 @@ A professional, multilingual installer designed to automatically set up **Luatoo
 
 ### Running the Installer
 
-1. Download the script file `install-plugin.py` to your system.
+1. Download the script file `luatools.py` to your system.
 2. Open terminal (Command Prompt or PowerShell) inside the directory where the script is located.
 3. Run the following command:
    ```bash
-   python install-plugin.py
+   python luatools.py
    ```
 4. Choose an option from the menu:
    - `1`: Install Luatools and dependencies.
