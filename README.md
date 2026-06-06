@@ -51,7 +51,7 @@ A professional, multilingual installer designed to automatically set up **Luatoo
 
 ## 📂 Project Structure
 
-- `install-plugin.py`: Core installation logic, ANSI terminal setup, translation dictionaries, registry lookup helper, process supervisor, and remote ZIP retrieval operations.
+- `luatools.py`: Core installation logic, ANSI terminal setup, translation dictionaries, registry lookup helper, process supervisor, and remote ZIP retrieval operations.
 - `README.md`: Project documentation.
 
 ---
