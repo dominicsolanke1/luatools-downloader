@@ -23,7 +23,6 @@ A professional, multilingual installer designed to automatically set up **Luatoo
 - **Steam Lifecycle Management**: Gracefully stops and re-launches Steam during the configuration process to ensure all dll hooks attach correctly.
 - **System Tweaks & Cleanups**: Automatically sweeps Steam beta flags, cleans local configuration conflicts (`steam.cfg`), and removes legacy `ForceX86` registry keys.
 - **Easy Uninstallation**: Complete cleanup utility to completely remove all installed plugins and hooks, returning Steam back to its pristine default state.
-- **Aesthetic Console Menu**: Customized terminal branding featuring the green `CHEATGLOBAL` ASCII layout and interactive options.
 
 ---
 <img width="1110" height="623" alt="image" src="https://github.com/user-attachments/assets/a9118e01-9e7f-405b-a7b2-d7ae6c4e9111" />
